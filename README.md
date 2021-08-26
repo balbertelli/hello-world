@@ -6,3 +6,4 @@ another change
 midnight change
 ten past midnight change
 fifteen past midnight change
+midnight thurty
