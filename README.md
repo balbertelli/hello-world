@@ -7,3 +7,4 @@ midnight change
 ten past midnight change
 fifteen past midnight change
 midnight thurty
+midnight thirty-eight
